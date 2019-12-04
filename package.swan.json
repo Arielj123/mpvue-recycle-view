@@ -1,0 +1,12 @@
+{
+  "appid": "仿小程序官方      font-size: 30rpx;",
+  "setting": {
+    "urlCheck": false
+  },
+  "condition": {
+    "swan": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
